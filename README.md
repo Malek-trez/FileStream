@@ -9,8 +9,7 @@ A secure enterprise-grade file management system with SFTP integration and audit
 
 ## 📖 Table of Contents
 - [Features](#-features)
-- [Usage](#-usage)
-- [Tech Stack](#-tech-stack)
+- [Installation](#-Installation)
 - [License](#-license)
 - [Acknowledgments](#-acknowledgments)
 
@@ -18,9 +17,7 @@ A secure enterprise-grade file management system with SFTP integration and audit
 - **Secure SFTP Transfers**  
 - **File Metadata Tracking** (Name, Size, Type, Path)
 - **Dockerized Environment** (Flask + MariaDB + SFTP)
-- **Responsive Web Interface**
 - **File History with Pagination**
-- **Download Management System**
 - **Environment-Based Configuration**
 
 ## 🚀 Installation
@@ -76,5 +73,3 @@ See the [LICENSE](LICENSE) file for details.
 
 Developed as part of my end-of-year academic project.  
 Special thanks to DeepSeek AI for development assistance.
-
-
